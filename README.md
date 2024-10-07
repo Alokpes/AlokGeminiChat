@@ -1,2 +1,3 @@
 # GeminiChat
-## We are developing our own Chat AI 
+## We are developing our own chap gpt
+
